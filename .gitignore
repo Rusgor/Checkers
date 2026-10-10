@@ -1,0 +1,21 @@
+# Android Studio / IntelliJ
+.idea/
+*.iml
+.gradle/
+local.properties
+
+# Збірка
+build/
+app/build/
+captures/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Логи
+*.log
+
+# Ключи підписи
+*.jks
+*.keystore
